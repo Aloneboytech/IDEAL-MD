@@ -1,121 +1,117 @@
-***
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SAHAS-MD;MADE+BY+SAHAS+TECH" alt="Typing SVG" /></a>
+a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-***
+## Izumi-v3 a simple Multi device Whatsapp Bot   
+### Setup 
+1. Get Session
+   <br>
+<a href='https://izumi.maskser.me/' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
-<p align = center>   <img src="https://files.catbox.moe/de82e3.jpg"</p>
-<p align="center">
+ 
+### For getting session in Indian number
+1.  Termux
+    <br>
+<a href='https://www.mediafire.com/file/iogcejb8629yv63/base.apk/file' target="_blank"><img alt='Install Termux' src='https://img.shields.io/badge/Install Termux-V2100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSahasTech22%2FSAHAS-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD/fork">
-    <img src="https://img.shields.io/github/forks/SahasTech22/SAHAS-MD?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/SahasTech22/SAHAS-MD?style=social">
-  </a>
-</p>
+2. download termux and run the command
+    ```
+   pkg update && pkg install -y nodejs git && git clone https://github.com/sataniceypz/izumi-qr.git && cd izumi-qr && npm install && node index.js
+   ```
 
-<p align="center">
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
-    <img src="https://img.shields.io/github/repo-size/SahasTech22/SAHAS-MD?color=purple&label=Repo%20Size&style=plastic">
+1. Fork This Repository
+   <br>
+<a href='https://github.com/sataniceypz/Izumi-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
-  </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
-    <img src="https://img.shields.io/github/license/SahasTech22/SAHAS-MD?color=purple&label=License&style=plastic">
+### Heroku
+1. Create account on Heroku
+   <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-  </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
-    <img src="https://img.shields.io/github/languages/top/SahasTech22/SAHAS-MD?color=purple&label=Javascript&style=plastic">
+2. Deploy on Heroku
+   <br>
+<a href='https://api.maskser.me/deploy' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-  </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sahas%20Tech&color=purple&style=plastic">
+### Koyeb
+1. Create account on Koyeb
+   <br>
+<a href='https://koyeb.com' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-  </a>
+2. Get [Koyeb api key](https://app.koyeb.com/account/api)
+
+3. Deploy on Koyeb
+   <br>
+<a href='https://izumi-web.vercel.app/koyeb' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+### Railway
+1. Create account on Railway
+   <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
+2. Deploy on Railway
+   <br>
+<a href='https://railway.app/template/jE4mV4?referralCode=RUBiix' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
+### Render
+1. Create account on Render
+   <br>
+<a href='https://render.com' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=Render&logoColor=white'/></a>
+
+2. Deploy on Render
+   <br>
+<a href='https://izumi-web.vercel.app/render' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=Render&logoColor=white'/></a>
+
+3. Tutorial
+   <br>
+<a href="https://youtu.be/c9jQJK9rasU?si=Suz_JfA2TRmJSVVM"><img align="center" src="https://img.shields.io/badge/-Watch-black?style=for-the-badge&logo=Render&logoColor=white" /></a>
+ </p>
+ </br>
+3. Deploy on Panel
+   <br>
+<a href='https://github.com/Axl-Sparky/Izumi-v3/archive/refs/heads/main.zip' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Download-black?style=for-the-badge&logo=Panel&logoColor=white'/></a>
   </p>
- <p align="center">
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20DHACKER%20ZONE%20-purple&style=plastic">
+  <br>
+### RUN ON VPS/TERMUX
 
-  </a>
-</p>
- 
-***
-
-
-<h2 align="center">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
-
-<p align="center">
-<a href='https://github.com/SahasTech22/SAHAS-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
-
-<p align="center">
-<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
-
-<p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 - 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
-
-***
-
-
-<h2 align="center">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://app.koyeb.com/services/new?service_type=web&step=review&type=git&repository=github.com%2FSahasTech22%2FSAHAS-MD&instance_type=free&regions=fra&env[SESSION_ID]=your_default_session_id&env[MONGODB]=your_default_mongodb_url&env[PREFIX]=.&env[mode]=public&env[OWNER_NUMBER]=94702481115&env[ALIVE_IMG]=your_default_alive_image_url&env[ALIVE_MSG]=I%20am%20alive!&env[AUTO_VOICE]=false&env[ANTI_BAD_WORDS_ENABLED]=true&env[AUTO_READ_STATUS]=true&env[ANTI_BAD_WORDS]=pakayo,huththo&env[ANTI_LINK]=false&env[ALWAYS_ONLINE]=false&env[ALWAYS_TYPING]=false&env[ALWAYS_RECORDING]=false&env[ANTI_BOT]=true&env[ANTI_DELETE]=true&env[packname]=🪄SAHAS&env[author]=SAHAS%20x%20SAHAS&env[OPENWEATHER_API_KEY]=2d61a72574c11c4f36173b627f8cb177&env[ELEVENLABS_API_KEY]=sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3&env[SHODAN_API]=cbCkidr6qd7AFVaYs56MuCouGfM8gFki&env[PEXELS_API_KEY]=39WCzaHAX939xiH22NCddGGvzp7cgbu1VVjeYUaZXyHUaWlL1LFcVFxH&env[OMDB_API_KEY]=76cb7f39&env[PIXABAY_API_KEY]=23378594-7bd620160396da6e8d2ed4d53&env[ZIPCODEBASE_API_KEY]=0f94a5f0-6ea4-11ef-81da-579be4fb031c&env[GOOGLE_API_KEY]=AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME&env[GOOGLE_CX]=AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME&env[PASTEBIN_API_KEY]=uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn&dockerfile=./Dockerfile
-' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-koyeb deploy-blue?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> <h6>
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
-
-<p align="center">
-  <a href='https://github.com/SahasTech22/SAHAS-MD/blob/main/WORKFLOW.md' target="_blank">
-    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
-  </a>
-
-
-
- 
-
-
-***
-
-<h2 align="center">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
-  Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
-  Please note that accounts can only be unbanned once.
-</p>
-<p style="text-align: center; font-size: 1.2em;">
-  I am not responsible for any actions leading to the banning of your account. 
-  Use at your own risk, keeping this warning in mind.
-</p>
-
-***
-<h2 align="center">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Not For Sale</strong><br>
-  - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
-  - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
-  - Wishing you a wonderful day ahead! 
-</p>
+1. Install packages
+   ```
+   apt update && apt upgrade -y && pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
+   ./start-ubuntu.sh
+   apt update && apt upgrade
+   apt install sudo
+   sudo apt install ffmpeg
+   sudo apt install imagemagick
+   sudo apt install yarn
+   sudo apt install git
+   sudo apt install curl
+   sudo apt -y remove nodejs
+   curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
+   ```
+2. installation
+   ```
+   git clone https://github.com/sataniceypz/Izumi-v3
+   cd Izumi-v3
+   rm -rf package-lock.json
+4. Configuration
+   ```
+   echo "TERMUX = true
+   SESSION_ID = izumi~NJrnzJyS
+   PREFIX = .
+   READ_MSG = false
+   ALWAYS_ONLINE = false
+   REJECT_CALL = false
+   LOG_MSG = true
+   SUDO = 917994489493
+   AUTO_STATUS_VIEW = true" > config.env
+   ```
+- Start
+  ```
+  npm install
+  npm start
+  ```
+- Stop
+  ```
+  pm2 delete izumi
     
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-</div>
-
-
+#### THANKS TO
+- [ Mask-Ser💗](https://github.com/mask-sir) <br>
